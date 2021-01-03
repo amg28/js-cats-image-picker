@@ -1,0 +1,18 @@
+body{
+    background-color: #f2b2c2;
+    background-image: url("background.png");
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
